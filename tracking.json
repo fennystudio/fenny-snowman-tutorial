@@ -1,0 +1,212 @@
+{
+  "version": "20261123",
+  "measurement_id": "G-FEYLE5FWZZ",
+  "page_url": "https://fennystudio.github.io/fenny-snowman-tutorial/",
+  "collection_started": "2026-11-23",
+  "buttons": [
+    {
+      "id": "b01",
+      "label": "迷你雪人",
+      "position": "top_series",
+      "url": "https://flowers.fenny-studio.com/product/mini-christmas-snowman-diy-kit/"
+    },
+    {
+      "id": "b02",
+      "label": "小麋鹿",
+      "position": "top_series",
+      "url": "https://flowers.fenny-studio.com/product/mini-christmas-reindeer-diy-kit/"
+    },
+    {
+      "id": "b03",
+      "label": "蓬蓬老公公",
+      "position": "top_series",
+      "url": "https://flowers.fenny-studio.com/product/christmas-pompom-santa-diy-kit/"
+    },
+    {
+      "id": "b04",
+      "label": "圍巾小熊",
+      "position": "top_series",
+      "url": "https://flowers.fenny-studio.com/product/christmas-scarf-bear-diy-kit/"
+    },
+    {
+      "id": "b05",
+      "label": "熊熊聖誕樹",
+      "position": "top_series",
+      "url": "https://flowers.fenny-studio.com/product/bear-guardian-christmas-tree-diy-kit/"
+    },
+    {
+      "id": "b06",
+      "label": "聖誕好運鈴",
+      "position": "top_series",
+      "url": "https://flowers.fenny-studio.com/product/christmas-lucky-bell-diy-kit/"
+    },
+    {
+      "id": "b07",
+      "label": "繽紛聖誕樹",
+      "position": "top_series",
+      "url": "https://flowers.fenny-studio.com/product/christmas-tree-diy/"
+    },
+    {
+      "id": "b08",
+      "label": "聖誕花環",
+      "position": "top_series",
+      "url": "https://flowers.fenny-studio.com/product/christmas-wreath-diy/"
+    },
+    {
+      "id": "b09",
+      "label": "Q萌花環",
+      "position": "top_series",
+      "url": "https://flowers.fenny-studio.com/product/q-christmas-wreath/"
+    },
+    {
+      "id": "b10",
+      "label": "聖誕雪花",
+      "position": "top_series",
+      "url": "https://flowers.fenny-studio.com/product/snowflake-diy/"
+    },
+    {
+      "id": "b11",
+      "label": "老公公掛飾",
+      "position": "top_series",
+      "url": "https://flowers.fenny-studio.com/product/santa-diy/"
+    },
+    {
+      "id": "b12",
+      "label": "老公公花環",
+      "position": "top_series",
+      "url": "https://flowers.fenny-studio.com/product/santa-claus-christmas-wreath-diy-kit/"
+    },
+    {
+      "id": "b13",
+      "label": "彩虹大樹",
+      "position": "top_series",
+      "url": "https://flowers.fenny-studio.com/product/rainbow-dream-65cm-pipe-cleaner-christmas-tree/"
+    },
+    {
+      "id": "b14",
+      "label": "🎄 看全部",
+      "position": "top_series",
+      "url": "https://flowers.fenny-studio.com/product-category/christmas/"
+    },
+    {
+      "id": "b15",
+      "label": "🛒 購買雪人材料包",
+      "position": "hero",
+      "url": "https://flowers.fenny-studio.com/product/mini-christmas-snowman-diy-kit/"
+    },
+    {
+      "id": "b16",
+      "label": "🛒 購買迷你聖誕雪人材料包",
+      "position": "after_step_2",
+      "url": "https://flowers.fenny-studio.com/product/mini-christmas-snowman-diy-kit/"
+    },
+    {
+      "id": "b17",
+      "label": "🛒 購買迷你聖誕雪人材料包",
+      "position": "after_step_4",
+      "url": "https://flowers.fenny-studio.com/product/mini-christmas-snowman-diy-kit/"
+    },
+    {
+      "id": "b18",
+      "label": "迷你聖誕雪人",
+      "position": "bottom_series",
+      "url": "https://flowers.fenny-studio.com/product/mini-christmas-snowman-diy-kit/"
+    },
+    {
+      "id": "b19",
+      "label": "迷你聖誕小麋鹿",
+      "position": "bottom_series",
+      "url": "https://flowers.fenny-studio.com/product/mini-christmas-reindeer-diy-kit/"
+    },
+    {
+      "id": "b20",
+      "label": "聖誕蓬蓬老公公",
+      "position": "bottom_series",
+      "url": "https://flowers.fenny-studio.com/product/christmas-pompom-santa-diy-kit/"
+    },
+    {
+      "id": "b21",
+      "label": "聖誕圍巾小熊",
+      "position": "bottom_series",
+      "url": "https://flowers.fenny-studio.com/product/christmas-scarf-bear-diy-kit/"
+    },
+    {
+      "id": "b22",
+      "label": "熊熊守護聖誕樹",
+      "position": "bottom_series",
+      "url": "https://flowers.fenny-studio.com/product/bear-guardian-christmas-tree-diy-kit/"
+    },
+    {
+      "id": "b23",
+      "label": "聖誕好運鈴",
+      "position": "bottom_series",
+      "url": "https://flowers.fenny-studio.com/product/christmas-lucky-bell-diy-kit/"
+    },
+    {
+      "id": "b24",
+      "label": "繽紛聖誕樹",
+      "position": "bottom_series",
+      "url": "https://flowers.fenny-studio.com/product/christmas-tree-diy/"
+    },
+    {
+      "id": "b25",
+      "label": "聖誕花環",
+      "position": "bottom_series",
+      "url": "https://flowers.fenny-studio.com/product/christmas-wreath-diy/"
+    },
+    {
+      "id": "b26",
+      "label": "Q萌花環",
+      "position": "bottom_series",
+      "url": "https://flowers.fenny-studio.com/product/q-christmas-wreath/"
+    },
+    {
+      "id": "b27",
+      "label": "聖誕雪花掛飾",
+      "position": "bottom_series",
+      "url": "https://flowers.fenny-studio.com/product/snowflake-diy/"
+    },
+    {
+      "id": "b28",
+      "label": "聖誕老公公掛飾",
+      "position": "bottom_series",
+      "url": "https://flowers.fenny-studio.com/product/santa-diy/"
+    },
+    {
+      "id": "b29",
+      "label": "聖誕老公公花環",
+      "position": "bottom_series",
+      "url": "https://flowers.fenny-studio.com/product/santa-claus-christmas-wreath-diy-kit/"
+    },
+    {
+      "id": "b30",
+      "label": "彩虹夢境大型樹",
+      "position": "bottom_series",
+      "url": "https://flowers.fenny-studio.com/product/rainbow-dream-65cm-pipe-cleaner-christmas-tree/"
+    },
+    {
+      "id": "b31",
+      "label": "🎄 逛全部聖誕系列材料包 ›",
+      "position": "bottom_all",
+      "url": "https://flowers.fenny-studio.com/product-category/christmas/"
+    },
+    {
+      "id": "b32",
+      "label": "📷 Instagram @fenny.studio",
+      "position": "footer",
+      "url": "https://www.instagram.com/fenny.studio/"
+    },
+    {
+      "id": "b33",
+      "label": "💬 LINE 加好友",
+      "position": "footer",
+      "url": "https://lin.ee/117MDRD"
+    },
+    {
+      "id": "b34",
+      "label": "🛒 線上商店 flowers.fenny-studio.com",
+      "position": "footer",
+      "url": "https://flowers.fenny-studio.com/"
+    }
+  ]
+}
